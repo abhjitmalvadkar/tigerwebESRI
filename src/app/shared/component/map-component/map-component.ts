@@ -56,7 +56,6 @@ export class MapComponent {
           content: `
             <ul>
               <li><strong>Route:</strong> {FULLNAME}</li>
-              <li><strong>MTFCC:</strong> {MTFCC}</li>
             </ul>
           `
         }
